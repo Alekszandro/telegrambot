@@ -76,7 +76,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>com.alexstepural.photobot.PhotoBot</mainClass>
+							<mainClass>com.alexstepural.photobot.Main</mainClass>
 							<addClasspath>true</addClasspath>
 							<classpathPrefix>lib/</classpathPrefix>
 						</manifest>
