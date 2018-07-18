@@ -1,0 +1,7 @@
+#  Maven template
+target/
+
+# IDE files
+.classpath
+.project
+.settings/
